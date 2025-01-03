@@ -5,10 +5,10 @@
 
 # 1. Variables and Data Types
 #    Explore different data types:
-#        Strings: Text values.
-         Integers: Whole numbers.
-         Floats: Decimal numbers.
-         Booleans: True or False values.
+#         Strings: Text values.
+#         Integers: Whole numbers.
+#         Floats: Decimal numbers.
+ #        Booleans: True or False values.
 #   2. Control Flow
 #        Use if, elif, and else statements to make decisions in code.
 
