@@ -25,7 +25,7 @@
 #   7. Modules and Libraries
 #   8.OOP concept
 #   9.Exception Handling
-#  10. Mini projet
+#  10. Mini project
 
 
 
