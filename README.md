@@ -23,6 +23,9 @@
 #         Sets
 #   6. File Handling
 #   7. Modules and Libraries
+#   8.OOP concept
+#   9.Exception Handling
+#  10. Mini projet
 
 
 
